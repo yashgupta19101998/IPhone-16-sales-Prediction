@@ -1,4 +1,4 @@
-# IPhone-16-sales-Prediction
+# IPhone-16-sales-Strategy
 Tools Used - python and visualization
 
 Future Prospects for iPhone 16 in India and strategy need to increase its sales
